@@ -2,4 +2,8 @@
 
 ## Ingredientes
 
+* aguacate
+* limón
+* sal
+
 ## Instrucciones
