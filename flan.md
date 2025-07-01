@@ -1,4 +1,4 @@
 # Ingredientes
 * Huevo
 * Azucar
-* Leche
+* Leche o Leche condensada
