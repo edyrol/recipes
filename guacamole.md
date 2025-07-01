@@ -11,3 +11,4 @@
 
 Muele todo
 Agrega sal al gusto
+No agregar salchica
