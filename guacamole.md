@@ -9,4 +9,4 @@
 ## Instrucciones
 
 Muele todo
-asdfgjjk
+Agrega sal al gusto
