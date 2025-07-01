@@ -5,6 +5,7 @@
 * aguacate
 * limón verde
 * sal
+* leche
 
 ## Instrucciones
 
