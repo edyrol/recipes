@@ -7,6 +7,5 @@
 * sal
 
 ## Instrucciones
-asdf
 
 Muele todo
